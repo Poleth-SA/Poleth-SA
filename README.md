@@ -11,7 +11,7 @@ Hello I am Poleth (Po-Let), I am currently a computer science major at Californi
       self.school = "CSUF"
       self.pronouns = "She/Her"
       self.languages = "English and Spanish"
-      self.programming_languages = ["Python, C++, CSS, HTML, JavaScript, Go, Swift, R, SQL"]
+      self.programming_languages = ["Python, C++, C#, CSS, HTML, JavaScript, R, SQL"]
       self.hobbies = ["video games", "Reading", "Soccer", "Museums"]
 ```
 
